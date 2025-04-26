@@ -1,0 +1,1 @@
+This code defines a functional component using the useState hook, with an initial value of 0. The increment function increases the counter by 1, while the decrement function decreases it by 1, but only if the counter is greater than 0. This prevents the counter from going into negative values. The current count is displayed, along with increment and decrement button
